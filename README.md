@@ -2,7 +2,6 @@
 This is a demonstration App using Google Firebase for login 
 
 # Notes
-
 Firebase: In charge of authentication 
 
 # Installation
